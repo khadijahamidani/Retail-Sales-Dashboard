@@ -1,6 +1,8 @@
 # Retail-Sales-Dashboard
 An interactive Retail Sales Analysis Dashboard built with Microsoft Power BI and DAX to analyze sales performance, profitability, product categories, and regional trends through KPI cards and interactive visualizations.
 
+![image alt](https://github.com/khadijahamidani/Retail-Sales-Dashboard/blob/4691f7897e72405efe8db491e2537c9d4f78d8f5/retail%20sales%20dashboard.JPG)
+
 Retail Sales Analysis Dashboard | Power BI
 Project Overview
 
